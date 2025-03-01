@@ -1,5 +1,5 @@
 package BinarySearch.OnAns;
-
+// minimize the max pages min(max)
 public class AllocatePages {
     public static void main(String[] args) {
         int[] arr = {12, 34, 67, 90};

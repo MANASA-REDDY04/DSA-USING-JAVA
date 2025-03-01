@@ -1,7 +1,7 @@
 package BinarySearch.OnAns;
 
 import java.util.Arrays;
-
+// maximize the min dis max(min)
 public class AggresiveCows {
     public static void main(String[] args) {
         int[] arr = {0,3,4,7,10,9};

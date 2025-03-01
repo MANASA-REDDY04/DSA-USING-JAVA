@@ -10,7 +10,6 @@ public class KthMissingPositiveInteger {
         int low = 1;
         int n = arr.length;
         int high = n-1;
-        int ans =-1;
         while (low <= high){
             int mid = (low+high)/2;
 //            number of missing elements upto mid

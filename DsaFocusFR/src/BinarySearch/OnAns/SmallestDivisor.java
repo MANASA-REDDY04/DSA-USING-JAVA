@@ -28,3 +28,4 @@ public class SmallestDivisor {
         return sum <= limit;
     }
 }
+// BS ON 2D check in A TO Z sheet

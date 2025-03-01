@@ -18,6 +18,7 @@ public class Nthroot {
         }
         return -1;
     }
+//    mid ^ n = m
     public static int midN(int mid,int n,int m){
         int ans = 1;
         for(int i = 1; i <= n; i++){

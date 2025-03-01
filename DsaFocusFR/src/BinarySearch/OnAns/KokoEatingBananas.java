@@ -1,5 +1,5 @@
 package BinarySearch.OnAns;
-
+//find minimum bananas it can eat oer hr
 public class KokoEatingBananas {
     public static void main(String[] args) {
         int[] arr = {7,15,6,3};
