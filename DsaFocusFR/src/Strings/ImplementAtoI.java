@@ -5,6 +5,7 @@ public class ImplementAtoI {
         String s = "-1337c0d3";
         System.out.println(myAtoi(s));
     }
+//    incorrect
     public static int myAtoi(String s) {
         s = s.trim();
         char sign = '+';
